@@ -1,0 +1,27 @@
+poppy007metal@ust-global.com
+
+1> Options 
+2> Features
+
+  1> Lets Assume we're selling a product, Let it be an Innova Car
+  2> We're having 3 services types 1> EW Gold 2> EW Platinum 3> EW Royal Platinum
+  3> We're offerring 2 Accessories with this product 1> Mats 2> Graphics 
+  
+  
+
+
+
+
+
+3> Quote Template
+4> Template Content 
+5> Quote Term
+6> Discount Schedules
+7> Product Rule 
+8> Price Rule 
+
+9> Pricebook wrt Region with Different Products 
+Products --> Manage Pricebook --> Create a new Price book --> In the new Pricebook Add Products
+Product --> Create a new Produt --> Set the standard price --> Add it to a pricebook
+
+
